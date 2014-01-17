@@ -2,7 +2,7 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
   common:
     loading: "Načítava sa..."
 #    saving: "Saving..."
-#    sending: "Sending..."
+    sending: "Odosiela sa..."
 
   modal:
     close: "Zatvoriť"
@@ -45,14 +45,14 @@ module.exports = nativeDescription: "slovenčina", englishDescription: "Slovak",
 #    cla_agree: "I AGREE"
 
   login:
-#    login_modal_title: "Log In"
+    login_modal_title: "Prihlásiť sa"
     log_in: "Prihlásiť sa"
     sign_up: "vytvoriť nový účet"
     or: ", alebo o"
     recover: "obnoviť účet"
 
-#  recover:
-#    recover_account_title: "Recover Account"
+  recover:
+    recover_account_title: "obnoviť účet"
 #    send_password: "Send Recovery Password"
 
   signup:
