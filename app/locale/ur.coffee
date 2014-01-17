@@ -1,38 +1,38 @@
 module.exports = nativeDescription: "اُردُو", englishDescription: "Urdu", translation:
   common:
-    loading: "Loading..."
+    loading: "لوڈنگ"
 #    saving: "Saving..."
 #    sending: "Sending..."
 
-#  modal:
+  modal:
 #    close: "Close"
-#    okay: "Okay"
+    okay: "ٹھیک ہے"
 
-#  not_found:
-#    page_not_found: "Page not found"
+  not_found:
+    page_not_found: "پیج نہیں ملا"
 
-#  nav:
-#    sign_up: "Create Account"
-#    log_in: "Log In"
-#    log_out: "Log Out"
-#    play: "Levels"
-#    editor: "Editor"
-#    blog: "Blog"
-#    forum: "Forum"
-#    admin: "Admin"
-#    home: "Home"
-#    contribute: "Contribute"
-#    legal: "Legal"
-#    about: "About"
-#    contact: "Contact"
-#    twitter_follow: "Follow"
+  nav:
+    sign_up: "اکاؤنٹ بنایئں"
+    log_in: "لاگ ان"
+    log_out: "لاگ آؤٹ"
+    play: "لیول"
+    editor: "ایڈیٹر"
+    blog: "بلاگ"
+    forum: "فورم"
+    admin: "ایڈمن"
+    home: "ہوم"
+    contribute: "حصہ ڈالیں"
+    legal: "قانونی"
+    about: "متعلق"
+    contact: "رابطہ"
+    twitter_follow: "فالو"
 #    employers: "Employers"
 
-#  forms:
-#    name: "Name"
-#    email: "Email"
-#    message: "Message"
-#    cancel: "Cancel"
+  forms:
+    name: "نام"
+    email: "ای میل"
+    message: "پیغام"
+    cancel: "منسوخ کریں"
 #    save: "Save"
 
 #  versions:
@@ -44,30 +44,30 @@ module.exports = nativeDescription: "اُردُو", englishDescription: "Urdu", 
 #    cla_suffix: "."
 #    cla_agree: "I AGREE"
 
-#  login:
-#    login_modal_title: "Log In"
-#    log_in: "Log In"
-#    sign_up: "create new account"
-#    or: ", or "
-#    recover: "recover account"
+  login:
+    login_modal_title: "لاگ ان"
+    log_in: "لاگ ان"
+    sign_up: "نیا اکاؤنٹ بنائیں"
+    or: " ، یا "
+    recover: "اکاؤنٹ دوبارہ حاصل کریں"
 
-#  recover:
-#    recover_account_title: "Recover Account"
+  recover:
+    recover_account_title: "اکاؤنٹ دوبارہ حاصل کریں"
 #    send_password: "Send Recovery Password"
 
-#  signup:
+  signup:
 #    create_account_title: "Create Account to Save Progress"
-#    description: "It's free. Just need a couple things and you'll be good to go:"
-#    email_announcements: "Receive announcements by email"
-#    coppa: "13+ or non-USA "
-#    coppa_why: "(Why?)"
-#    creating: "Creating Account..."
-#    sign_up: "Sign Up"
-#    or: "or "
-#    log_in: "log in with password"
+    description: "اکاؤنٹ دوبارہ حاصل کریں"
+    email_announcements: "اعلانات ای میل سے موصول کریں"
+    coppa: "۱۳+ یا غیر امریکی "
+    coppa_why: "(کیوں؟)"
+    creating: "اکاؤنٹ بناتے ہوئے..."
+    sign_up: "سائن اپ"
+    or: "یا "
+    log_in: "پاس ورڈ سے لاگ ان کریں"
 
-#  home:
-#    slogan: "Learn to Code JavaScript by Playing a Game"
+  home:
+    slogan: "Javascript میں کوڈ کرنا گیم کھیل کر سیکھیں"
 #    no_ie: "CodeCombat does not run in Internet Explorer 9 or older. Sorry!"
 #    no_mobile: "CodeCombat wasn't designed for mobile devices and may not work!"
 #    play: "Play"
