@@ -26,7 +26,7 @@ module.exports = nativeDescription: "日本語", englishDescription: "Japanese",
     about: "CoCoについて"
     contact: "お問い合わせ"
     twitter_follow: "フォロー"
-#    employers: "Employers"
+    employers: "雇用者"
 
   forms:
     name: "名前"
