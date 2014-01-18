@@ -25,7 +25,7 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
     legal: "Undang- undang"
     about: "Tentang"
     contact: "Hubungi"
-#    twitter_follow: "Follow"
+    twitter_follow: "Ikut"
 #    employers: "Employers"
 
   forms:
@@ -45,14 +45,14 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
 #    cla_agree: "I AGREE"
 
   login:
-#    login_modal_title: "Log In"
+    login_modal_title: "Log Masuk"
     log_in: "Log Masuk"
     sign_up: "buat akaun baru"
     or: ", atau "
     recover: "perbaharui akaun"
 
-#  recover:
-#    recover_account_title: "Recover Account"
+  recover:
+    recover_account_title: "perbaharui akaun"
 #    send_password: "Send Recovery Password"
 
   signup:
@@ -66,14 +66,14 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
     or: "atau "
     log_in: "log masuk"
 
-#  home:
-#    slogan: "Learn to Code JavaScript by Playing a Game"
-#    no_ie: "CodeCombat does not run in Internet Explorer 9 or older. Sorry!"
+  home:
+    slogan: "Belajar Kod JavaScript Melalui Permainan"
+    no_ie: "Maaf! CodeCombat tidak boleh dimain dalam IE8 atau lebih tua."
 #    no_mobile: "CodeCombat wasn't designed for mobile devices and may not work!"
-#    play: "Play"
+    play: "Main"
 
-#  play:
-#    choose_your_level: "Choose Your Level"
+  play:
+    choose_your_level: "Pilih Level"
 #    adventurer_prefix: "You can jump to any level below, or discuss the levels on "
 #    adventurer_forum: "the Adventurer forum"
 #    adventurer_suffix: "."
@@ -85,10 +85,10 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
 #    campaign_multiplayer_description: "... in which you code head-to-head against other players."
 #    campaign_player_created: "Player-Created"
 #    campaign_player_created_description: "... in which you battle against the creativity of your fellow <a href=\"/contribute#artisan\">Artisan Wizards</a>."
-#    level_difficulty: "Difficulty: "
+    level_difficulty: "Kesusahan: "
 
 #  contact:
-#    contact_us: "Contact CodeCombat"
+    contact_us: "Hubungi CodeCombat"
 #    welcome: "Good to hear from you! Use this form to send us email. "
 #    contribute_prefix: "If you're interested in contributing, check out our "
 #    contribute_page: "contribute page"
@@ -111,15 +111,15 @@ module.exports = nativeDescription: "Bahasa Melayu", englishDescription: "Bahasa
 #    title: "Wizard Settings"
 #    customize_avatar: "Customize Your Avatar"
 
-#  account_settings:
+  account_settings:
 #    title: "Account Settings"
 #    not_logged_in: "Log in or create an account to change your settings."
 #    autosave: "Changes Save Automatically"
-#    me_tab: "Me"
-#    picture_tab: "Picture"
+    me_tab: "Saya"
+    picture_tab: "Gambar"
 #    wizard_tab: "Wizard"
 #    password_tab: "Password"
-#    emails_tab: "Emails"
+    emails_tab: "Emel"
 #    gravatar_select: "Select which Gravatar photo to use"
 #    gravatar_add_photos: "Add thumbnails and photos to a Gravatar account for your email to choose an image."
 #    gravatar_add_more_photos: "Add more photos to your Gravatar account to access them here."
