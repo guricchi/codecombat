@@ -1,6 +1,6 @@
 module.exports = nativeDescription: "български език", englishDescription: "Bulgarian", translation:
   common:
-    loading: "Loading..."
+    loading: "Зареждане..."
 #    saving: "Saving..."
 #    sending: "Sending..."
 
@@ -8,19 +8,19 @@ module.exports = nativeDescription: "български език", englishDescri
 #    close: "Close"
 #    okay: "Okay"
 
-#  not_found:
-#    page_not_found: "Page not found"
+  not_found:
+    page_not_found: "Страницата не е намерена"
 
-#  nav:
+  nav:
 #    sign_up: "Create Account"
 #    log_in: "Log In"
 #    log_out: "Log Out"
 #    play: "Levels"
-#    editor: "Editor"
-#    blog: "Blog"
-#    forum: "Forum"
-#    admin: "Admin"
-#    home: "Home"
+    editor: "Редактор"
+    blog: "Блог"
+    forum: "Форум"
+    admin: "Администратор"
+    home: "Начало"
 #    contribute: "Contribute"
 #    legal: "Legal"
 #    about: "About"
