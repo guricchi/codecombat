@@ -1,8 +1,8 @@
 module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norwegian (Bokmål)", translation:
   common:
     loading: "Laster..."
-#    saving: "Saving..."
-#    sending: "Sending..."
+    saving: "Lagrer..."
+    sending: "Sender..."
 
   modal:
     close: "Lukk"
@@ -45,14 +45,14 @@ module.exports = nativeDescription: "Norsk Bokmål", englishDescription: "Norweg
 #    cla_agree: "I AGREE"
 
   login:
-#    login_modal_title: "Log In"
+    login_modal_title: "Logg Inn"
     log_in: "Logg Inn"
     sign_up: "lag ny konto"
     or: ", eller "
     recover: "gjenåpne konto"
 
 #  recover:
-#    recover_account_title: "Recover Account"
+#    recover_account_title: "gjenåpne konto"
 #    send_password: "Send Recovery Password"
 
   signup:
