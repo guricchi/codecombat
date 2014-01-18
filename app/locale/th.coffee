@@ -1,7 +1,7 @@
 module.exports = nativeDescription: "ไทย", englishDescription: "Thai", translation:
   common:
     loading: "รอสักครู่..."
-#    saving: "Saving..."
+    saving: "กำลังบันทึก..."
 #    sending: "Sending..."
 
   modal:
@@ -45,14 +45,14 @@ module.exports = nativeDescription: "ไทย", englishDescription: "Thai", tra
 #    cla_agree: "I AGREE"
 
   login:
-#    login_modal_title: "Log In"
+    login_modal_title: "ลงชื่อเข"
     log_in: "ลงชื่อเข้าใช้"
     sign_up: "ลงทะเบียนใหม่"
     or: "หรือ"
     recover: "กู้บัญชีการใช้งาน"
 
-#  recover:
-#    recover_account_title: "Recover Account"
+  recover:
+    recover_account_title: "กู้บัญชีการใ"
 #    send_password: "Send Recovery Password"
 
   signup:
@@ -87,8 +87,8 @@ module.exports = nativeDescription: "ไทย", englishDescription: "Thai", tra
 #    campaign_player_created_description: "... in which you battle against the creativity of your fellow <a href=\"/contribute#artisan\">Artisan Wizards</a>."
 #    level_difficulty: "Difficulty: "
 
-#  contact:
-#    contact_us: "Contact CodeCombat"
+  contact:
+    contact_us: "ติดต่อ CodeCombat"
 #    welcome: "Good to hear from you! Use this form to send us email. "
 #    contribute_prefix: "If you're interested in contributing, check out our "
 #    contribute_page: "contribute page"
